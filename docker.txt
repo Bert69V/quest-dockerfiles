@@ -1,1 +1,5 @@
-Hallo Docker!
+
+
+docker build -t mein_python:latest
+
+docker run mein_python
